@@ -1,1 +1,1 @@
-# dead-server
+# prog2 - dead server
